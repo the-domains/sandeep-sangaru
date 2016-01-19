@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sandeep Sangaru]]></title>
         <description><![CDATA[Sandeep Sangaru]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sandeep-sangaru/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 11:56:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 02:21:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sandeep-sangaru/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4ff8a5d-08fb-4295-9638-398d60c2c727.jpg">]]></description>
+            <link>https://thegrid.ai/sandeep-sangaru/0d1c6bbb-5e9c-4997-80cf-a22a84b5f46f/index.html</link>
+            <guid isPermaLink="false">0d1c6bbb-5e9c-4997-80cf-a22a84b5f46f</guid>
+            <pubDate>Tue, 19 Jan 2016 02:21:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc3f5079-b80b-49cd-8200-41a6f7fb2208.bmp">]]></description>
-            <link>undefined83617074-52f7-4268-aba0-811a57f7966f/index.html</link>
+            <link>https://thegrid.ai/sandeep-sangaru/83617074-52f7-4268-aba0-811a57f7966f/index.html</link>
             <guid isPermaLink="false">83617074-52f7-4268-aba0-811a57f7966f</guid>
             <pubDate>Mon, 18 Jan 2016 11:56:23 GMT</pubDate>
         </item>
